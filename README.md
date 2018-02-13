@@ -1,0 +1,2 @@
+# funcoin-rpc
+tmp
